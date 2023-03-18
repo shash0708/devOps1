@@ -5,6 +5,8 @@
 5.git commit -m 'file enters'
 6.git log
 7.git push
+8.git pull
+
 
 
 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
