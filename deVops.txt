@@ -21,3 +21,6 @@ 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
 
 * microservices
 
+*runnable version of images==container(.class)
+
+*non runnable==image(jdk,jvm)
