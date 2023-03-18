@@ -1,12 +1,18 @@
-1.git --version
-2.git clone repository id (https)
+1. git --version
+2. git clone repository id (https)
 3. git status
-4.git add filename
-5.git commit -m 'file enters'
-6.git log
-7.git push
-8.git pull
+4. git add filename
+5. git commit -m 'file enters' 
+6. git log
+7. git push
+8. git pull
 
 
 
 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
+
+
+ * in docker multiple containers are provided  (if there is a heavy load on one server that application gets replicated to a container to balance  the load)
+*docker images:- Docker Image is an executable package of software that includes everything needed to run an application. 
+
+* CONTAINERS:-A container is a runnable instance of an image. You can create, start, stop, move, or delete a container using the Docker API or CLI. You can connect a container to one or more networks, attach storage to it, or even create a new image based on its current state.
